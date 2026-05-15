@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 
 /// <summary>
-/// オプション演習-01 クエリパラメータを利用する
+/// オプション演習-02 ルートパラメータを利用する
 /// </summary>
 [Route("Option02")]
 public class Op02Controller : Controller
